@@ -1,8 +1,8 @@
 # Henry Atkins
 
-## Projects
+## Repos
 
-### Product Based
+### Product Style Projects
 
 - **[Hargreaves Lansdown Portfolio Analysis](https://github.com/henry-dev-atkins/open-hl-portfolio.git)**
   - HL's own analysis tool is terrible. This is a local-only (security!) portfolio analysis tool.
@@ -37,11 +37,11 @@
 - **[Sentinel Research](https://github.com/henry-dev-atkins/Sentinel-Research)** (2022)
   - Quantitative trading research covering moving-average crossover strategies, EUR/USD volatility using ATR, and Twitter sentiment analysis.
 
-## Currently Working On (Will publish in time):
+# Currently Working On (will publish in time):
 - **Research:** Generalising intelligent sparsity in PyTorch.
 - **Research:** A novel dynamic tokenisation approach for time-series.
 - **ML Textbook:** Maintaining a personal technical reference based on research and lessons from industry.
-- **Trading:** My Sharpe 2 strategy on US Equities.
+- **Trading:** live sharpe > 2 US equity strategy.
 
 ## Background
 - Co-founded a quantitative hedge fund (MCD Capital) while at university.
