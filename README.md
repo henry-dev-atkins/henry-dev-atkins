@@ -1,5 +1,14 @@
 # Henry Atkins
 
+
+## Background
+- Co-founded a quantitative hedge fund (**MCD Capital**) while at university.
+- Machine learning research focused on personalisation and moderation at **Expedia**.
+- Founded the quant trading team at **Deeter Analytics**.
+- **UCL:** MSc Quantum Technologies.
+- **Queen Mary University of London:** BSc Particle Physics.
+
+
 ## Repos
 
 ### Product Style Projects
@@ -43,12 +52,6 @@
 - **ML Textbook:** Maintaining a personal technical reference based on research and lessons from industry.
 - **Trading:** live sharpe > 2 US equity strategy.
 
-## Background
-- Co-founded a quantitative hedge fund (MCD Capital) while at university.
-- Machine learning research focused on personalisation and moderation at Expedia.
-- Founded the quant trading team at Deeter Analytics.
-- **UCL:** MSc Quantum Technologies.
-- **Queen Mary University of London:** BSc Particle Physics.
 
 
 ## Get in Touch
@@ -58,7 +61,8 @@ I'm always interested in meeting potential collaborators.
 I'm currently looking to connect with people experienced in:
 
 - **Consumer app deployment:** Taking applications from prototypes to production.
-- **Data privacy:** UK GDPR, consumer data handling, and privacy-conscious architecture.
-- **Application security:** Authentication, secure infrastructure, and protecting user data.
+- **Data privacy and Security** UK GDPR, consumer data handling, and privacy-conscious architecture.
+- **Automated Deployment Systems**.
+- **Sparse Model Training.** Gradient critics, gradient distributions etc.
 
 If any of this overlaps with your work, feel free to reach out on [LinkedIn](https://uk.linkedin.com/in/henry-atkins).
